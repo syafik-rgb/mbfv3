@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 # ------ [ Gausah Dioprek Ntar Error ] ------ #
-Author    = 'Mhd Syafii'
+Author    = 'Mhd Syafiik'
 Facebook  = 'facebook.com/100017207508798'
 Instagram = 'Instagram.com'
 Whatsapp  = '082386854238'
@@ -58,11 +58,11 @@ def banner():
     war_dom = random.choice([P,K,B,J,U,H])
     print("""
 ___________________________________________________
- ____  __  __ ____  _____  |[•] Version 11
-|  _ \|  \/  | __ )|  ___| |[•] Mhd.Syafiik
-| | | | |\/| |  _ \| |_    |[•] 27-22-1998
-| |_| | |  | | |_) |  _|   |[•] Brute Fb
-|____/|_|  |_|____/|_|     |[•] 11-04-2022
+  __  __ ____  _____  |[•] Version 11
+ |  \/  | __ )|  ___| |[•] Mhd.Syafiik
+|| |\/| |  _ \| |_    |[•] 27-22-1998
+|| | |  | | |_) |  _|   |[•] Brute Fb
+||_|  |_|____/|_|     |[•] 11-04-2022
 ____________________________________________________
  |""")
 
