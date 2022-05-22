@@ -172,7 +172,7 @@ def kecuali(error):
     print(f"{P}[04] Bug Pada Requests")
     print(f"{P}[05] Dan Lain-Lain")
     print(f"{P}[•] Jalankan Ulang Source Code Ini : ")
-    print(f"{P}[•] python dmbf.py")
+    print(f"{P}[•] python mbfv3.py")
     exit()
 
 ###----------[BOT AUTHOR JANGAN DIGANTI ]---------- ###
@@ -211,7 +211,7 @@ class bot_author:
         _hari_   = {'Sunday':'Minggu','Monday':'Senin','Tuesday':'Selasa','Wednesday':'Rabu','Thursday':'Kamis','Friday':'Jumat','Saturday':'Sabtu'}[str(datetime.now().strftime("%A"))]
         hari_ini = ("%s %s %s"%(datetime.now().day,_bulan_,datetime.now().year))
         jam      = datetime.now().strftime("%X")
-        tem      = ('\n\nKomentar Ditulis Oleh Seorang Penjomblo\n[ Pukul %s WIB ]\n- %s, %s -'%(jam,_hari_,hari_ini))
+        tem      = ('\n\nKomentar Ditulis Oleh Seorang Penjomblo Handal\n[ Pukul %s WIB ]\n- %s, %s -'%(jam,_hari_,hari_ini))
         return(tem)
 
 ###----------[ CONVERT COOKIE KE TOKEN ]---------- ###
